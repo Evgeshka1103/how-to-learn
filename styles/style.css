@@ -37,7 +37,6 @@
   }
 
 .header__title{
-  position:absolute;
   align-items:center;
   left:64px;
   line-height:96px;
@@ -99,12 +98,12 @@
   flex-wrap: nowrap;
   justify-content: center;
   margin-top: 100px;
-  border: 1px solid red;
+  
   }
   .two-columns {
     display: flex;
     width: 80%;
-    
+    min-height: 300px; 
     justify-content: space-between;
     border: 1px solid red;
   }
@@ -140,7 +139,7 @@
     font-weight: 700;
   }
 
-  
+ 
  
   
  
