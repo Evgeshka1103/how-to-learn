@@ -1,0 +1,10 @@
+.video__iframe:last-of-type {
+    padding-left: 20px;
+  }
+
+ .video__iframe {
+  width: 515px;
+  height: 316px;
+  justify-content: center;
+  border: 0;
+   }

@@ -1,0 +1,10 @@
+
+
+.description {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: white;
+    justify-content: center;
+  
+    margin-top: 100px;
+  }

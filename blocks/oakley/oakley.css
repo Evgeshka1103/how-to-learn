@@ -1,0 +1,9 @@
+
+.oakley {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color:#F2F2F2;
+    justify-content: center;
+  width: 100%;
+    padding-top: 160px;
+  }
